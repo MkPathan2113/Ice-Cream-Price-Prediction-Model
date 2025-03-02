@@ -1,4 +1,4 @@
-# Ice Cream Price Prediction Model
+# Ice Cream Profit Prediction Model
 
 ## Project Overview:
 This project aims to predict the price of ice cream based on various factors like type, ingredients, size, and location. The goal is to build a machine learning model that can predict the price of an ice cream based on historical data.
